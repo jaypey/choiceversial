@@ -1,0 +1,4 @@
+venv/*
+cvAPI/cvAPI/__pycache__/*
+cvAPI/choicevAPI/__pycache__/*
+cvAPI/choicevAPI/migrations/*
